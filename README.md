@@ -1,0 +1,2 @@
+# Mart-management-system
+Mystic Mart &amp; Co. is a C++ console-based retail management system featuring inventory tracking, file handling (stock.txt), secure admin controls, automated receipt generation with timestamps, ANSI-styled UI, and audio alerts. Developed at PUCIT/FCIT ..
